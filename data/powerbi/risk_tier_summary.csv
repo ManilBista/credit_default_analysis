@@ -1,0 +1,4 @@
+risk_tier,customers,defaulters,avg_predicted_prob,actual_default_rate_pct,share_of_customers_pct,share_of_all_defaulters_pct
+Low,4612,617,0.13,13.38,76.87,46.5
+Medium,972,426,0.442,43.83,16.2,32.1
+High,416,284,0.717,68.27,6.93,21.4

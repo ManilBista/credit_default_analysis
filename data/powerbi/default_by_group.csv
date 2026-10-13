@@ -1,0 +1,41 @@
+variable,group,customers,defaulters,default_rate_pct
+limit_band,<50K,4311,1555,36.07
+limit_band,50K-100K,7139,1857,26.01
+limit_band,100K-200K,7400,1537,20.77
+limit_band,200K-500K,10222,1583,15.49
+limit_band,500K+,928,104,11.21
+age_group,21-30,11013,2471,22.44
+age_group,31-40,10713,2189,20.43
+age_group,41-50,6005,1399,23.3
+age_group,51-60,1997,504,25.24
+age_group,61+,272,73,26.84
+EDUCATION_label,Graduate school,10585,2036,19.23
+EDUCATION_label,High school,4917,1237,25.16
+EDUCATION_label,Others,468,33,7.05
+EDUCATION_label,University,14030,3330,23.73
+MARRIAGE_label,Married,13659,3206,23.47
+MARRIAGE_label,Others,377,89,23.61
+MARRIAGE_label,Single,15964,3341,20.93
+SEX_label,Female,18112,3763,20.78
+SEX_label,Male,11888,2873,24.17
+sept_status,1 months late,3688,1252,33.95
+sept_status,2 months late,2667,1844,69.14
+sept_status,3 months late,322,244,75.78
+sept_status,4 months late,76,52,68.42
+sept_status,5 months late,26,13,50.0
+sept_status,6 months late,11,6,54.55
+sept_status,7 months late,9,7,77.78
+sept_status,8 months late,19,11,57.89
+sept_status,On time,23182,3207,13.83
+months_delayed,0,19931,2334,11.71
+months_delayed,1,4426,1320,29.82
+months_delayed,2,1899,736,38.76
+months_delayed,3,1154,587,50.87
+months_delayed,4,951,545,57.31
+months_delayed,5,298,171,57.38
+months_delayed,6,1341,943,70.32
+utilization_band,0-25%,14378,2582,17.96
+utilization_band,25-50%,4555,906,19.89
+utilization_band,50-75%,4880,1225,25.1
+utilization_band,75-100%,5549,1705,30.73
+utilization_band,Over 100%,638,218,34.17

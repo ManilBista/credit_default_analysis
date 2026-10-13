@@ -1,0 +1,3 @@
+model,accuracy,precision,recall,roc_auc
+Logistic Regression,0.8147,0.6516,0.3482,0.7582
+Logistic Regression (balanced),0.749,0.4482,0.584,0.7607

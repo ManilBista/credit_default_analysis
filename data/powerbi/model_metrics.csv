@@ -1,0 +1,9 @@
+model,metric,value
+Logistic Regression,accuracy,0.8147
+Logistic Regression (balanced),accuracy,0.749
+Logistic Regression,precision,0.6516
+Logistic Regression (balanced),precision,0.4482
+Logistic Regression,recall,0.3482
+Logistic Regression (balanced),recall,0.584
+Logistic Regression,roc_auc,0.7582
+Logistic Regression (balanced),roc_auc,0.7607
